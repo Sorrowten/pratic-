@@ -1,5 +1,3 @@
-# pratic-
-# Book Store API
 
 ## Установка
 
